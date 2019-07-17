@@ -10,7 +10,7 @@
     "react-router-dom": "^5.0.1",
     "react-scripts": "^2.1.1",
     "mongoose": "^5.1.6",
-    "mongodb": "^3.4.13"
+    "mongodb": "^4.0.10"
   },
   "scripts": {
     "start": "react-scripts start",
